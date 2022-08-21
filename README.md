@@ -4,3 +4,4 @@ To serve dashboard locally, use the command:
 ```bash
 panel serve Interactive_Dashboard.ipynb
 ```
+![Interactive_Dashboard](CO2 Emission Dashboard.png)
